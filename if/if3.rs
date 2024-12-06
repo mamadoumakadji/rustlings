@@ -24,8 +24,6 @@ fn animal_habitat(animal: &str) -> &str {
 
 fn main() {
     // You can optionally experiment here.
-    println!("{}", animal_habitat("crab"));
-    println!("{}", animal_habitat("gopher"));
     println!("{}", animal_habitat("snake"));
 }
 
